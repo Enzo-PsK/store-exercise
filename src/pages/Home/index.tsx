@@ -145,7 +145,7 @@ const Home: FC<HomeProps> = () => {
     <>
       <Header active="Home"></Header>
       <div className="bg-light">
-        <Container className="bg-light text-muted">
+        <Container className="bg-light text-muted pb-4">
           <div className="filter my-4">
             <input className=" w-50" onChange={(event) => setQueryString(event.target.value)} value={queryString} type="text" placeholder="Search product name" />
             <div className="options-box">
