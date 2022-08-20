@@ -5,7 +5,7 @@
 3) Use 'npm install' then 'npm run start'
 4) After running up, make sure you see 'Store API running on 8081' in console
 
-## Initiating React Project
+## Starting React Project
 
 1) Clone this repository
 2) Use 'npm install' or 'npm i' and then use 'npm start'
