@@ -25,7 +25,7 @@ const Parts: FC<PartsProps> = () => {
     if(type === "Keyboard") iconSource = keyboard;
 
     function handleClick(){
-        alert("Thank you for you purchase!");
+        alert("Thanks for your purchase! You will receive it soon :)");
         window.location.href="/"
     }
     return (
